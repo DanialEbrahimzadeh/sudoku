@@ -1,0 +1,9 @@
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\PAIA SYSTEM\Desktop\sudoku\sudoku\obj\Debug\sudoku.pdb
